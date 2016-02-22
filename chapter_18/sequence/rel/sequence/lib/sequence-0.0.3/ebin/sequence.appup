@@ -1,0 +1,9 @@
+{"0.0.3",
+ [{"0.0.2",
+   [{add_module,'Elixir.Sequence.Server.State'},
+    {update,'Elixir.Sequence.Server',{advanced,[]}},
+    {update,'Elixir.Sequence.Stash',{advanced,[]}}]}],
+ [{"0.0.2",
+   [{delete_module,'Elixir.Sequence.Server.State'},
+    {update,'Elixir.Sequence.Server',{advanced,[]}},
+    {update,'Elixir.Sequence.Stash',{advanced,[]}}]}]}.
